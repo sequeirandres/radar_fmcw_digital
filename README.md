@@ -5,6 +5,8 @@
 ![image](RadarDigitalFmcw/control_digital.JPG)
 
 ### Conversor digital DAC-8 BITS
+- [] Dac0830
+
 
 ### Microcontrolador STM32 BluePill
 
