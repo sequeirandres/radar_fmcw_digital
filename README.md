@@ -13,6 +13,10 @@
 
 ![image](RadarDigitalFmcw/conversor_pcb_tom.JPG)
 
+
+![image](RadarDigitalFmcw/modulador_digital_8_bits.JPG)
+
+
 ### Microcontrolador STM32 BluePill
 - [STM32](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
 
