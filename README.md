@@ -9,6 +9,9 @@
 
 ![image](RadarDigitalFmcw/Conversor_DAC_8_bits.JPG)
 
+![image](RadarDigitalFmcw/conversor_pcb_buttom.JPG)
+
+![image](RadarDigitalFmcw/conversor_pcb_tom.JPG)
 
 ### Microcontrolador STM32 BluePill
 - [STM32](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
