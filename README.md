@@ -7,6 +7,9 @@
 ### Conversor digital DAC-8 BITS
 - [Dac0830](https://pdf1.alldatasheet.com/datasheet-pdf/view/517553/TI/DAC0830LCN.html)
 
+![image](RadarDigitalFmcw/Conversor_DAC_8_bits.JPG)
+
+
 ### Microcontrolador STM32 BluePill
 - [STM32](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
 
