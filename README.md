@@ -1,9 +1,9 @@
 ### Diagrama en bloques del radar Digital
 
-![image](RadarDigitalFmcw/Radar_digital_fmcw.JPG =400x)
+![image](RadarDigitalFmcw/Radar_digital_fmcw.JPG)
 
 ### Control Digital del radar 
-![image](RadarDigitalFmcw/control_digital.JPG =400x)
+![image](RadarDigitalFmcw/control_digital.JPG)
 
 ### Conversor digital DAC-8 BITS
 
