@@ -13,7 +13,7 @@
 
 ![image](RadarDigitalFmcw/conversor_pcb_tom.JPG)
 
-
+Audio escope : Analisis de la señal generada
 ![image](RadarDigitalFmcw/modulador_digital_8_bits.JPG)
 
 
