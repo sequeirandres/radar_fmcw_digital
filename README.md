@@ -22,8 +22,10 @@ Audio escope : Analisis de la señal generada
 
 ### Sistema Embebido
 
+Diagrama en bloques del sistema 
 
-### Comuninicacion USB
 
+### Comunicacion USB
 
+Diagrama de comunicacion
 
