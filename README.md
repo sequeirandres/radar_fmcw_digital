@@ -16,16 +16,3 @@
 Audio escope : Analisis de la señal generada
 ![image](RadarDigitalFmcw/modulador_digital_8_bits.JPG)
 
-
-### Microcontrolador STM32 BluePill
-- [STM32](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
-
-### Sistema Embebido
-
-Diagrama en bloques del sistema 
-
-
-### Comunicacion USB
-
-Diagrama de comunicacion
-
